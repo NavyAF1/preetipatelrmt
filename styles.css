@@ -127,12 +127,12 @@ font-size: 1rem;
 }
 
 /* Adjustments for smaller screens */
-@media (max-width: 768px) {
+@media (max-width: 800px) {
 .service {
  width: 45%;
 }
 }
-@media (max-width: 768px) {
+@media (max-width: 800px) {
 header {
  font-size: 1.5rem;
 }
@@ -141,7 +141,7 @@ h1 {
  font-size: 2rem;
 }
 h2 {
- font-size: 2.5rem;
+ font-size: 2.5em;
 }
 
 p {
